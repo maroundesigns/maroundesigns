@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="./header.svg" alt="MD. — Maroun Designs" width="100%">
+
 <br>
 
-# MD.
-
-### Benoit Maroun &nbsp;·&nbsp; Creative Director & Founder
+**Benoit Maroun &nbsp;·&nbsp; Creative Director & Founder**
 
 Premium Meta ad creative for DTC fashion, skincare, beauty & fragrance brands.
 
@@ -23,7 +23,7 @@ Premium Meta ad creative for DTC fashion, skincare, beauty & fragrance brands.
 
 Maroun Designs is a Meta ad creative studio for DTC brands in fashion, skincare, beauty, and fragrance.
 
-Static and motion ads built to perform. Every piece starts with competitive research and a close read of the brand's visual language, then gets built for Meta — designed to stop the scroll and earn its media spend.
+Static and motion ads built to perform. Every piece starts with competitive research and a close read of the brand's visual language, then gets built for Meta. Made to stop the scroll and earn its media spend.
 
 ---
 
@@ -45,7 +45,7 @@ Static and motion ads built to perform. Every piece starts with competitive rese
 
 Static ad creative &nbsp;·&nbsp; Motion creative &nbsp;·&nbsp; Creative audits &nbsp;·&nbsp; Retainer engagements
 
-Formats: feed, story, DPA — built for Meta performance.
+Formats: feed, story, DPA. Built for Meta performance.
 
 ---
 
